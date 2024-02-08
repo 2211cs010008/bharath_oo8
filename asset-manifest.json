@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bharath_oo8/static/css/main.f855e6bc.css",
+    "main.js": "/bharath_oo8/static/js/main.6f2bdfd9.js",
+    "static/js/592.aae77644.chunk.js": "/bharath_oo8/static/js/592.aae77644.chunk.js",
+    "static/media/Bharath.jpg": "/bharath_oo8/static/media/Bharath.3643e5ecf5f3b4202915.jpg",
+    "index.html": "/bharath_oo8/index.html",
+    "main.f855e6bc.css.map": "/bharath_oo8/static/css/main.f855e6bc.css.map",
+    "main.6f2bdfd9.js.map": "/bharath_oo8/static/js/main.6f2bdfd9.js.map",
+    "592.aae77644.chunk.js.map": "/bharath_oo8/static/js/592.aae77644.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6f2bdfd9.js"
+  ]
+}
